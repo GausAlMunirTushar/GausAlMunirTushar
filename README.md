@@ -32,6 +32,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
 ![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=tokyonight&show_icons=true&hide=prs) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&theme=tokyonight)](https://github.com/gausalmunirtushar/github-readme-stats)
 <br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Gaus Al Munir Tushar's github stats](https://github-readme-stats.vercel.app/api?username=gausalmunirtushar)](https://github.com/anuraghazra/github-readme-stats)
 **GausAlMunirTushar/GausAlMunirTushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
