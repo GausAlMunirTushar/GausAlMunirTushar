@@ -39,7 +39,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 <br>
  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
