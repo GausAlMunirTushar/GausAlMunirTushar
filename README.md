@@ -35,8 +35,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
     </a>
 </p>
 ## 📊 Gaus Al Munir Tushar's Github Stats 
-[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/gausalmunirtushar/github-readme-stats)
+[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 <br>
  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -45,7 +45,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Gaus Al Munir Tushar's github stats](https://github-readme-stats.vercel.app/api?username=gausalmunirtushar)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaus Al Munir Tushar's github stats](https://github-readme-stats.vercel.app/api?username=gausalmunirtushar)](https://github.com/GausAlMunirTushar/github-readme-stats)
 **GausAlMunirTushar/GausAlMunirTushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  ![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&count_private=true&theme=tokyonight&hide=contribs,prs)
