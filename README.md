@@ -35,13 +35,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
     </a>
 </p>
 ## 📊 Gaus Al Munir Tushar's Github Stats 
-[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117) 
+[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/gausalmunirtushar/github-readme-stats)
 <br>
- <br/>
+ <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
+<br>
+<br>
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
