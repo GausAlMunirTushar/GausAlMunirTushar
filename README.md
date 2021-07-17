@@ -35,7 +35,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
     </a>
 </p>
 ## 📊 Gaus Al Munir Tushar's Github Stats 
-![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117) 
+[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/gausalmunirtushar/github-readme-stats)
 <br>
  <br/>
