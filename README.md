@@ -38,8 +38,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
 
 ## 📊 Gaus Al Munir Tushar's Github Stats 
 
-[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
+[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&color=5BCDEC&line=5BCDEC&point=FFFFFF)](https://github.com/GausAlMunirTushar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react-dark&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 
 <br>
  <br>
@@ -48,15 +48,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
 <br>
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
-
-[![Gaus Al Munir Tushar's github stats](https://github-readme-stats.vercel.app/api?username=gausalmunirtushar)](https://github.com/GausAlMunirTushar/github-readme-stats)
-**GausAlMunirTushar/GausAlMunirTushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- ![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&count_private=true&theme=tokyonight&hide=contribs,prs)
