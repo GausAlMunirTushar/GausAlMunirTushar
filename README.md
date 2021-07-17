@@ -5,6 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+:coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar) 
@@ -21,7 +22,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Gaus Al Munir Tushar's github stats](https://github-readme-stats.vercel.app/api?username=gausalmunirtushar)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 **GausAlMunirTushar/GausAlMunirTushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
@@ -35,3 +35,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+:e-mail: &emsp;How to reach me: gausalmunirtushar@gmail.com.<br/>
