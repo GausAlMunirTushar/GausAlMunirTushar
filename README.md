@@ -34,17 +34,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS <br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaus Al Munir Tushar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GausAlMunirTushar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/GausAlMunirTushar/github-readme-stats"><img alt="Gaus Al Munir Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gaus Al Munir Tushar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/GausAlMunirTushar/github-readme-stats"><img alt="Gaus Al Munir Tushar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+## 📊 Gaus Al Munir Tushar's Github Stats 
+![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&themereact-dark&hide_border=true&bg_color=0D1117)](https://github.com/gausalmunirtushar/github-readme-stats)
+<br>
+ <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react-dark&show_icons=true&hide=prs&hide_border=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gausalmunirtushar&layout=compact&themereact-dark&hide_border=true)](https://github.com/gausalmunirtushar/github-readme-stats)
-<br>
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
