@@ -1,4 +1,6 @@
 <h1> Hi There 👋, I'm Gaus Al Munir Tushar </h1>
+<img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 Here are some ideas to get you started:
 
@@ -16,7 +18,6 @@ Here are some ideas to get you started:
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: gausalmunirtushar@gmail.com.<br/>
-<img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
