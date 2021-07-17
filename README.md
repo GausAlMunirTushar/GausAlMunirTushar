@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Gaus Al Munir Tushar
 <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old.jpg" width="100%" height="500" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar">
+<h1 style="text-align:center;"> Hi There 👋, I'm Gaus Al Munir Tushar </h1>
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
