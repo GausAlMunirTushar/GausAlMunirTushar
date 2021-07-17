@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: gausalmunirtushar@gmail.com.<br/>
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-:coffee: &emsp;Connect with me!
-
+Skills: VUE JS / REACT / JS / HTML / CSS <br>
+:coffee: &emsp;Connect with me! <br>
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar) 
