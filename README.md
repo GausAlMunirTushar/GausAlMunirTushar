@@ -60,6 +60,16 @@ Here are some ideas to get you started:
 <br>
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
+
+
+# ❤️‍🔥 Present's Team ⤵️
+
+## Gaus Al Munir Tushar has <!-- follower-counter -->1272<!-- /follower-counter --> followers
+[@IbrahimAliHamim](https://github.com/IbrahimAliHamim) | [@MehediHasanRaselPro](https://github.com/MehediHasanRaselPro) | [@MahfouzHossain](https://github.com/MahfouzHossain) | [@Shobujkumaraditto](https://github.com/Shobujkumaraditto)
+--- | --- | --- | ---
+![@IbrahimAliHamim](https://avatars.githubusercontent.com/u/87495140?v=4) | ![@MehediHasanRaselPro](https://avatars.githubusercontent.com/u/87492817?v=4) | ![@MahfouzHossain](https://avatars.githubusercontent.com/u/87492349?v=4) | ![@Shobujkumaraditto](https://avatars.githubusercontent.com/u/87502706?v=4)
+--- | --- | --- | ---
+
 <details>
  <summary> 🚀 Projects </summary>
     
