@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - :computer:  I enjoy programming and sharing knowledge
 ## :coffee: Connect with me! <br>
-[![Facebook Badge](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge&logo=Website&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
+[![Website Badge](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge&logo=Website&logoColor=white)](https://gausalmunirtushar.com/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar) 
