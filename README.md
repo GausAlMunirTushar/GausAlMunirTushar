@@ -61,17 +61,20 @@ Here are some ideas to get you started:
 [![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 
-<br>
- <br>
+
+ <br/>
   <b>Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-<br>
+<br/>
+<br/>
+
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
 
+
 ## ❤️‍🔥 Present's Team ⤵️
-| [@IbrahimAliHamim](https://github.com/IbrahimAliHamim) | [@MehediHasanRaselPro](https://github.com/MehediHasanRaselPro) | [@MahfouzHossain](https://github.com/MahfouzHossain) | [@ShobujKumarAditto](https://github.com/Shobujkumaraditto) |
+
+[@IbrahimAliHamim](https://github.com/IbrahimAliHamim) | [@MehediHasanRaselPro](https://github.com/MehediHasanRaselPro) | [@MahfouzHossain](https://github.com/MahfouzHossain) | [@ShobujKumarAditto](https://github.com/Shobujkumaraditto) 
 |   :----:   |    :----:   |     :----:   |      :----:   |
  ![@IbrahimAliHamim](https://avatars.githubusercontent.com/u/87495140?v=4) | ![@MehediHasanRaselPro](https://avatars.githubusercontent.com/u/87492817?v=4) | ![@MahfouzHossain](https://avatars.githubusercontent.com/u/87492349?v=4) | ![@ShobujKumarAditto](https://avatars.githubusercontent.com/u/87502706?v=4) 
 | Ibrahim Ali Hamim | Mehedi Hasan Rasel | Mahafouz Hossain | Shobuj Kumar Addito |
