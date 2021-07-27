@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
  <br/>
-  <b>Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>📓 Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
