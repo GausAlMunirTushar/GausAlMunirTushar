@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2-removebg.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on App Dev
