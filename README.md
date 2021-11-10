@@ -6,10 +6,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- :computer:  I enjoy programming and sharing knowledge
+- 👯 I’m looking to collaborate on App Dev
+- 🤔 I’m looking for help with 
+- 💬 Ask me about CS
+- 💻 I am passionate about Web Dev, ML, DevOps & I enjoy learning new things  
+- 💻 I enjoy programming, sharing knowledge DevOps & I enjoy learning new things
 ## :coffee: Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge&logo=Website&logoColor=white)](https://gausalmunirtushar.com/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
