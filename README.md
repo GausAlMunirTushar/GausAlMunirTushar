@@ -10,7 +10,7 @@
 - 💻 I am passionate about Web Dev, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming, sharing knowledge DevOps & I enjoy learning new things
 ## :coffee: Connect with me! <br>
-[![Website Badge](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge&logo=Website&logoColor=white)](https://gausalmunirtushar.com/) 
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar) 
