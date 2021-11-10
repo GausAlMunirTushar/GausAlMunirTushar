@@ -82,7 +82,7 @@
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
-
+## Honors & Awards 🏅
 
 ## ❤️‍🔥 Present's Team ⤵️
 
