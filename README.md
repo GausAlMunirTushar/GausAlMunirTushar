@@ -19,7 +19,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
 
-# 👨‍💻🚀 Skills:
+# <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="55"/>Skills:
 
 ### 💻 Programming Languages:
     
