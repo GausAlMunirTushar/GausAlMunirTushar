@@ -1,4 +1,4 @@
-<h1> Hi👋, I'm <a href="https://gausalmunirtushar.com">Gaus Al Munir Tushar</a> </h1>
+<h1> Hi<img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.com">Gaus Al Munir Tushar</a> </h1>
 <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2-removebg.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
@@ -19,7 +19,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
 
-# <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="55"/>Skills:
+# <img alt="GIF" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Developer.gif" width="55"/>Skills:
 
 ### 💻 Programming Languages:
     
