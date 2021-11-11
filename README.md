@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on App Dev
 - 🤔 I’m looking for help with 
 - <img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/message.gif" width="20"> Ask me about Web Development
-- <img alt="Hi" src="http://static.skaip.org/img/emoticons/180x180/f6fcff/computer.gif" width="20"> I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
+- 💻 I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming, sharing knowledge
 ## :coffee: Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
