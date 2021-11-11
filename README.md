@@ -2,13 +2,13 @@
 <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2-removebg.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Front End Dev
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on App Dev
 - 🤔 I’m looking for help with 
-- 💬 Ask me about CS
-- 💻 I am passionate about Web Dev, ML, DevOps & I enjoy learning new things  
-- 💻 I enjoy programming, sharing knowledge DevOps & I enjoy learning new things
+- 💬 Ask me about Web Dev
+- 💻 I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
+- 💻 I enjoy programming, sharing knowledge
 ## :coffee: Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
