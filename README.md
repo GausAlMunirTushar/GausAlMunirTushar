@@ -51,19 +51,23 @@
         🖥️ GUI Development:
         </td>
    </tr>
-   <tr>
+  <tr>
     <td>
-<p align="center"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+            <p align="center"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"                        height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"                       width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"                       width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank">     
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+         </p>
     </td>
     <td>
-    <p align="center">
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" alt="python" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- </p>
+          <p align="center">
+            <a href="https://www.electronjs.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" alt="python" width="40" height="40"/>               </a>
+            <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"             width="40" height="40"/> </a>
+        </p>
     </td>
-   </tr>
-
+ </tr>
+ 
+  
  </table>
+ 
 
 
 ### Databases:
@@ -108,7 +112,9 @@
 |Siratun Nobi Mridul | Jibon Ray | Rayhan | Shafi Al Mamun | 
 
 
+
 <details>
  <summary> 🚀 Projects </summary>
+ 
     
  </details>
