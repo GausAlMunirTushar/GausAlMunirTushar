@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on App Dev
 - 🤔 I’m looking for help with 
 - <img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/message.gif" width="20"> Ask me about Web Development
-- 💻 I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
+- ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming, sharing knowledge
 ## :coffee: Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
@@ -83,7 +83,7 @@
     </a>
 </p>
 
-## 📊 Gaus Al Munir Tushar's Github Stats 
+## <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
 
 [![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
 
