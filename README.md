@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Front End Dev
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on App Dev
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Web Dev
+- 🤔 I’m looking for help with Projects
 - <img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/message.gif" width="20"> Ask me about Web Development
 - ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming, sharing knowledge
