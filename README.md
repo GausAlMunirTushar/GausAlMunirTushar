@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Projects
 - <img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/message.gif" width="20"> Ask me about Web Development
 - ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
-- 💻 I enjoy programming, sharing knowledge
+- 💻 I enjoy programming & sharing knowledge
 ## :coffee: Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
