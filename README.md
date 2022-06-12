@@ -55,8 +55,7 @@
    </tr>
   <tr>
     <td>
-            <p align="center"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"                        height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"                       width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"                       width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank">     
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+            <p align="center"> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
          </p>
     </td>
     <td>
@@ -72,28 +71,23 @@
  
 
 
-### Databases:
- <p align="left">
- <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  </p>
+
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
  
+## <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
 <p align="center">
     <a href="https://github.com/GausAlMunirTushar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaus Al Munir Tushar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GausAlMunirTushar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
-
-[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
+|[![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats) |  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats) |
+| :-----: | | :-----: |
 
 
- <br/>
-  <b>📓 Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>📓 Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
