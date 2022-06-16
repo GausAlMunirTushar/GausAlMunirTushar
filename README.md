@@ -47,7 +47,7 @@
    </tr>
    <tr>
         <td>
-          📱Mobile App Development:
+          📱Databases:
         </td>
         <td>
         🖥️ GUI Development:
