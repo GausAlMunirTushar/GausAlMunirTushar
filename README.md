@@ -47,7 +47,7 @@
    </tr>
    <tr>
         <td>
-          📱Databases:
+          📱Database:
         </td>
         <td>
         🖥️ GUI Development:
