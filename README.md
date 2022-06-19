@@ -47,9 +47,6 @@
    </tr>
    <tr>
         <td>
-         🖥️ :
-        </td>
-        <td>
          📱Databases:
         </td>
    </tr>
