@@ -95,13 +95,19 @@
 ## 🏅Honors & Awards :
 
 <details>
- <summary> 🚀 ❯❯ Blogs & Articles ↓ </summary>
+ <summary style="font-size: 20px;"> 📝 ❯❯ Blogs & Articles ↓  </summary>
 
   [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.com/) 
-  [!https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar)
+
   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar)
+
   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/)
+
  </details>
+
+<br>
+
 ## ❤️‍🔥 Present's Team ⤵️
 
 [@IbrahimAliHamim](https://github.com/IbrahimAliHamim) | [@JibonRay](https://github.com/JibonRay) | [@MahfouzHossain](https://github.com/MahfouzHossain) | [@ShobujKumarAditto](https://github.com/Shobujkumaraditto) 
