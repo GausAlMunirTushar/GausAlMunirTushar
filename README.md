@@ -1,4 +1,4 @@
-<h1> Hi<img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.com">Gaus Al Munir Tushar</a> </h1>
+<h1> Hi<img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Gaus Al Munir Tushar</a> </h1>
 <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2-removebg.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
@@ -10,12 +10,12 @@
 - ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming & sharing knowledge
 ## :coffee: Connect with me! <br>
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/) 
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunirTushar)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunirTushar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
 
