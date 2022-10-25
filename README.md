@@ -1,5 +1,5 @@
 <h1> Hi<img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Gaus Al Munir Tushar</a> </h1>
-<img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/github-banner-old2-removebg.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
+<img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/cover-img.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
 - 🔭 I’m currently working on Front End Dev
