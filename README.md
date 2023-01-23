@@ -1,12 +1,12 @@
-<h1> Hi<img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Gaus Al Munir Tushar</a> </h1>
-<img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
+<h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Gaus Al Munir Tushar</a> </h1>
+<img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
 - 🔭 I’m currently working on Front End Dev
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Web Dev
 - 🤔 I’m looking for help with Projects
-- <img alt="Hi" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/message.gif" width="20"> Ask me about Web Development
+- <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
 - ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things  
 - 💻 I enjoy programming & sharing knowledge
 ## :coffee: Connect with me! <br>
@@ -19,7 +19,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
 
-# <img alt="GIF" src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/Developer.gif" width="55"/>Skills:
+# <img alt="Developer Gif" src="./assets/developer.gif" width="55"/>Skills:
 
 ### 💻 Programming Languages:
     
@@ -70,7 +70,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
  
-## <img src="https://raw.githubusercontent.com/GausAlMunirTushar/GausAlMunirTushar/main/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
+## <img src="./assets/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
 <p align="center">
 <a href="https://github.com/GausAlMunirTushar/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaus Al Munir Tushar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GausAlMunirTushar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
