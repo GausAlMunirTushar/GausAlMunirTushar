@@ -31,8 +31,8 @@
 
 <table align="center">
    <tr>
-    <td>🚶 Frontend Development: </td> 
-    <td>🔙 Backend Development: </td>
+    <th> 🚶 Frontend Development: </b></th> 
+    <th>🔙 Backend Development: </b></th>
    </tr>
   <tr>
     <td>
@@ -51,8 +51,8 @@
       </td>
    </tr>
    <tr>
-        <td> </td>
-        <td>📱Databases: </td>
+        <th>Development Tools</th>
+        <th> 📱Databases: </th>
    </tr>
   <tr>
     <td>
