@@ -57,7 +57,7 @@
    </tr>
   <tr>
     <td>
-            <p align="justify"> 
+            <p align=""> 
             <a href="https://vitejs.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> 
             <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /> </a> <a href="https://babeljs.com" target="_blank"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babeljs" /> </a> <a href="https://eslint.com" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> </a> 
             <a href="https://.com" target="_blank"> <img src="" alt="" /> </a> 
