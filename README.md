@@ -102,6 +102,14 @@
 
 <br>
 
+## Education:
+1. Diploma in Computer Science and Technology,
+Rangpur Polytechnic Institute
+Rangpur, Bangladesh
+1. SSC in Computer Technology,
+Jatir Pita Bangabandhu Govt. High School
+Gazipur, Bangladesh
+
 ### ❤️‍🔥 Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
@@ -116,5 +124,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/) [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar)
 
 <hr>
-Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023</p>
 <hr>
