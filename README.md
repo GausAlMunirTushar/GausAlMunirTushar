@@ -10,7 +10,7 @@
 -   ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
 
-## :coffee: Connect with me! <br>
+##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
@@ -20,9 +20,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
-# <img alt="Developer Gif" src="./assets/developer.gif" width="55"/>Skills:
 
-## 💻 Programming Languages:
+
+## <img alt="Developer Gif" src="./assets/developer.gif" width="40"/> Programming Languages:
 
 <p align="left">
  <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
@@ -60,7 +60,8 @@
             <p align=""> 
             <a href="https://vitejs.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> 
             <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /> </a> <a href="https://babeljs.com" target="_blank"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babeljs" /> </a> <a href="https://eslint.com" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> </a> 
-            <a href="https://prettier.com" target="_blank"> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" /> </a>
+            <a href="https://prettier.com" target="_blank"> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="" /> </a>
+            <a href="https://" target="_blank"> <img src=" " alt="" /> </a>
          </p>
     </td>
     <td>
@@ -95,11 +96,10 @@
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
-## 🏅Honors & Awards :
-
+## <img alt="Project Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
 - Top Learner - LEDP, ICT Division
 
-## 🚀 Projects
+##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
 
 <br>
 
@@ -111,7 +111,7 @@ Rangpur, Bangladesh
 Jatir Pita Bangabandhu Govt. High School
 Gazipur, Bangladesh -->
 
-### ❤️‍🔥 Recent Followers
+### <img alt="Project Gif" src="./assets/fire.gif" width="25"/>   Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
