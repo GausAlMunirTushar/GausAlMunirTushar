@@ -125,8 +125,9 @@
 - SSC in Computer Technology
    Jatir Pita Bangabandhu Govt. High School  
    Gazipur, Bangladesh.
-
-### <img alt="Project Gif" src="./assets/fire.gif" width="25"/>   Recent Followers
+   
+<br/>
+### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/>   Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
