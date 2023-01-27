@@ -96,13 +96,26 @@
 
 [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
 
-## <img alt="Project Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
+## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
 - Top Learner - LEDP, ICT Division
 
 ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
 
 <br>
-
+<table>
+   <tr>
+      <th>Projects</th>
+      <th>Live Link</th>
+      <th>Description</th>
+      <th>Technology Used</th>
+   </tr>
+   <tr>
+   <td> Demo Project</td>
+   <td> <a>Live Link</a> </td>
+   <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
+   <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
+   </tr>
+</table>
 <!-- ## Education:
 1. Diploma in Computer Science and Technology,
 Rangpur Polytechnic Institute
