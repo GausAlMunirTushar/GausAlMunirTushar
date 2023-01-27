@@ -101,21 +101,21 @@
 
 ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
 
-<br>
 <table>
    <tr>
       <th>Projects</th>
-      <th>Live Link</th>
+      <th>Live Demo Link</th>
       <th>Description</th>
       <th>Technology Used</th>
    </tr>
    <tr>
    <td> Demo Project</td>
-   <td> <a>Live Link</a> </td>
+   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
    <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
    <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
    </tr>
 </table>
+<a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 <!-- ## Education:
 1. Diploma in Computer Science and Technology,
 Rangpur Polytechnic Institute
