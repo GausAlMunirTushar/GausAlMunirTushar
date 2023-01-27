@@ -116,13 +116,15 @@
    </tr>
 </table>
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-<!-- ## Education:
-1. Diploma in Computer Science and Technology,
-Rangpur Polytechnic Institute
-Rangpur, Bangladesh
-1. SSC in Computer Technology,
-Jatir Pita Bangabandhu Govt. High School
-Gazipur, Bangladesh -->
+
+
+## <img src="./assets/edu-icon.gif" width="30">Education
+- Diploma in Computer Science and Technology
+   Rangpur Polytechnic Institute  
+   Rangpur, Bangladesh.
+- SSC in Computer Technology
+   Jatir Pita Bangabandhu Govt. High School  
+   Gazipur, Bangladesh.
 
 ### <img alt="Project Gif" src="./assets/fire.gif" width="25"/>   Recent Followers
 
