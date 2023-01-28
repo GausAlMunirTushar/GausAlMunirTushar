@@ -8,7 +8,7 @@
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
-- ⚡ Fun fact: I love to Explore the world & My Typing speed 80++ WPM
+- ⚡ Fun fact: My Typing speed 80++ WPM
 ##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
@@ -52,7 +52,7 @@
    </tr>
    <tr align="left">
         <th><b>👨‍💻Development Tools</b></th>
-        <th> <b>📱Databases: </b></th>
+        <th> <b>📱Databases & Cloud Hosting </b></th>
    </tr>
   <tr>
     <td>
@@ -65,7 +65,10 @@
     </td>
     <td>
           <p align="center">
-            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
+            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a><a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> </a>
+            ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+            ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+            ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
         </p>
     </td>
  </tr>
@@ -138,7 +141,7 @@
    Gazipur, Bangladesh. -->
    
 
-### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/>Recent Followers
+### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
