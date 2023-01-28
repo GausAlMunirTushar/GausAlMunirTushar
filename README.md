@@ -2,14 +2,13 @@
 <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
--   🔭 I’m currently working on Front End Dev
--   🌱 I’m currently learning DevOps
+-   🔭 I’m currently working on Web Dev.
+-   🌱 I’m currently learning Nextjs & Docker
 -   👯 I’m looking to collaborate on Web Dev
--   🤔 I’m looking for help with Projects
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
--   ❤️ I am passionate about UX Design, ML, DevOps & I enjoy learning new things
+-   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
-
+- ⚡ Fun fact: I love to Explore the world & My Typing speed 80++ WPM
 ##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
@@ -104,12 +103,24 @@
 <table>
    <tr>
       <th>Projects</th>
-      <th>Live Demo Link</th>
+      <th>Live Demo Links</th>
       <th>Description</th>
       <th>Technology Used</th>
    </tr>
    <tr>
-   <td> Demo Project</td>
+   <td>Inventory Management System</td>
+   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
+   <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
+   <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
+   </tr>
+   <tr>
+   <td>Task Management Application</td>
+   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
+   <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
+   <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
+   </tr>
+   <tr>
+   <td>Expense Management System</td>
    <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
    <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
    <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
@@ -120,10 +131,10 @@
 
 ## <img src="./assets/edu-icon.gif" width="30">Education
 - Diploma in Computer Science and Technology
-   Rangpur Polytechnic Institute  
+   <p>Rangpur Polytechnic Institute</p>  
    Rangpur, Bangladesh.
 - SSC in Computer Technology
-   Jatir Pita Bangabandhu Govt. High School  
+   <p>Jatir Pita Bangabandhu Govt. High School </p> 
    Gazipur, Bangladesh.
    
 <br/>
