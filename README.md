@@ -58,7 +58,7 @@
     <td>
             <p align=""> 
             <a href="https://vitejs.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> 
-            <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /> </a> <a href="https://babeljs.com" target="_blank"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babeljs" /> </a> <a href="https://eslint.com" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> </a> 
+            <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /> </a> <a href="https://babeljs.com" target="_blank"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babeljs" /> </a> <a href="https://eslint.com" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> </a> 
             <a href="https://prettier.com" target="_blank"> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="" /> </a>
             <a href="https://" target="_blank"> <img src=" " alt="" /> </a>
          </p>
@@ -93,7 +93,7 @@
 <br/>
 <br>
 
-[![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph)
+<!-- [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph) -->
 
 ## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
 - Top Learner - LEDP, ICT Division
@@ -128,17 +128,17 @@
 </table>
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
-
+<!-- 
 ## <img src="./assets/edu-icon.gif" width="30">Education
 - Diploma in Computer Science and Technology
-   <p>Rangpur Polytechnic Institute</p>  
+   Rangpur Polytechnic Institute  
    Rangpur, Bangladesh.
 - SSC in Computer Technology
-   <p>Jatir Pita Bangabandhu Govt. High School </p> 
-   Gazipur, Bangladesh.
+   Jatir Pita Bangabandhu Govt. High School
+   Gazipur, Bangladesh. -->
    
-<br/>
-### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/>   Recent Followers
+
+### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/>Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
