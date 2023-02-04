@@ -126,6 +126,13 @@
    <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
    </tr>
 </table>
+
+## Hobby Projects
+| Projects      | Description | Responses |
+| -----------   | ----------- |-----------|
+| <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 100+ Installs |
+
+
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 <!-- 
