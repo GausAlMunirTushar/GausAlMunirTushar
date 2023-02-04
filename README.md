@@ -43,7 +43,7 @@
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> </a> 
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/> </a> 
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs"/> </a> 
-     <a href="" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> </a><a href="https://nextjs.com" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/> </a>  
+     <a href="" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> </a><a href="https://nextjs.com" target="_blank"> <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/> </a>  
     </p>
    </td>
       <td>
@@ -129,7 +129,7 @@
 
 ## Hobby Projects
 | Projects      | Description | Responses |
-| -----------   | ----------- |-----------|
+| -----------   | :-------------------: |-----------|
 | <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 100+ Installs |
 
 
