@@ -26,7 +26,6 @@
 <p align="left">
  <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" /> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54" alt="python" /> </a>
  </p>
 
 <table align="center">
@@ -108,14 +107,14 @@
       <th>Technology Used</th>
    </tr>
    <tr>
-   <td>Inventory Management System</td>
-   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
-   <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
-   <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
+   <td><a href="https://github.com/GausAlMunirTushar/InvenTrack">InvenTrack</a></td>
+   <td> <a href="https://inventrack.gausalmunirtushar.me">Live Demo</a> </td>
+   <td> InvenTrack is a powerful inventory management system that can help businesses take control of their inventory, minimize stockouts and overstocking, and improve their operational efficiency and customer satisfaction. </td>
+   <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
    <td>Task Management Application</td>
-   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
+   <td> <a href="https://task.gausalmunirtushar.me">Live Demo</a> </td>
    <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
    <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
    </tr>
