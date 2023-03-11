@@ -108,19 +108,19 @@
    </tr>
    <tr>
    <td><a href="https://github.com/GausAlMunirTushar/InvenTrack">InvenTrack</a></td>
-   <td> <a href="https://inventrack.gausalmunirtushar.me">Live Demo</a> </td>
+   <td align="center"> <a href="https://inventrack.gausalmunirtushar.me">Live Demo</a> </td>
    <td> InvenTrack is a powerful inventory management system that can help businesses take control of their inventory, minimize stockouts and overstocking, and improve their operational efficiency and customer satisfaction. </td>
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
    <td><a href="https://github.com/GausAlMunirTushar/TaskMasterX">TaskMasterX</a></td>
-   <td><a href="https://task.gausalmunirtushar.me">Live Demo</a> </td>
+   <td align="center"><a href="https://task.gausalmunirtushar.me">Live Demo</a> </td>
    <td> TaskMasterX is a powerful and intuitive task management system designed to help individual efficiently organize, track, and complete tasks. TaskMasterX is the perfect solution for anyone looking to streamline their workflow and stay on top of their tasks. </td>
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
    <td>Expense Management System</td>
-   <td> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
+   <td align="center"> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
    <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
    <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
    </tr>
