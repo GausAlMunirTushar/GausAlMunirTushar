@@ -119,10 +119,10 @@
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
-   <td>Expense Management System</td>
-   <td align="center"> <a href="https://gausalmunirtushar.me/project">Live Demo</a> </td>
+   <td><a href="https://github.com/GausAlMunirTushar/ExpensifyPro">ExpensifyPro</a></td>
+   <td align="center"> <a href="https://expenseifypro.gausalmunirtushar.me">Live Demo</a> </td>
    <td> It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier. </td>
-   <td>HTML5,CSS3, Bootstrap, JavaScript NodeJS, MongoDB, Heroku</td>
+   <td>Reactjs, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
 </table>
 
