@@ -120,7 +120,7 @@
    </tr>
    <tr>
    <td><a href="https://github.com/GausAlMunirTushar/ExpensifyPro">ExpensifyPro</a></td>
-   <td align="center"> <a href="https://expenseifypro.gausalmunirtushar.me">Live Demo</a> </td>
+   <td align="center"> <a href="https://expensifypro.gausalmunirtushar.me/">Live Demo</a> </td>
    <td> ExpensifyPro is a comprehensive expense management system designed to streamline the process of tracking, managing, and reporting expenses for businesses and individuals. The system offers features such as automated expense tracking, receipt scanning, real-time expense reports, and expense policy enforcement to help users manage their finances more. </td>
    <td>Reactjs, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
