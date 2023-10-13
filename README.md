@@ -1,4 +1,4 @@
-<h1> Hi, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
+<h1> Hi, I'm  <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
 <!-- <h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="30">, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1> -->
 <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
@@ -114,7 +114,7 @@
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/Taskify">TaskMasterX</a></td>
+   <td><a href="https://github.com/GausAlMunirTushar/Taskify">Taskify</a></td>
    <td align="center"><a href="https://taskify.gausalmunirtushar.xyz/">Live Demo</a> </td>
    <td> Taskify is a powerful and intuitive task management system designed to help individual efficiently organize, track, and complete tasks. TaskMasterX is the perfect solution for anyone looking to streamline their workflow and stay on top of their tasks. </td>
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
@@ -123,6 +123,7 @@
    <td><a href="https://github.com/GausAlMunirTushar/Daktarbari">Daktarbari</a></td>
    <td align="center"> <a href="https://daktarbari.gausalmunirtushar.xyz/">Live Demo</a> </td>
    <td> The Daktarbari Doctor Management System is a web-based application designed to facilitate the management of medical practices and appointments. The system aims to streamline administrative tasks, improve patient care, and enhance the overall efficiency of healthcare operations.</td>
+   <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
 </table>
 
