@@ -1,9 +1,9 @@
-<h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Gaus Al Munir Tushar</a> </h1>
+<h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="30">, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
 <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
 
 -   🔭 I’m currently working on Web Dev.
--   🌱 I’m currently learning Nextjs & Docker
+-   🌱 I’m currently learning Nginx & Docker
 -   👯 I’m looking to collaborate on Web Dev
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
@@ -11,10 +11,10 @@
 - ⚡ Fun fact: My Typing speed 80++ WPM
 ##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunirTushar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunir)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharProfile)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
@@ -157,6 +157,8 @@
 [![Website Badge](https://img.shields.io/badge/Personal%20Blog-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://blog.gausalmunirtushar.me/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/) [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar)
 
-<img src="./assets/line.gif">
+<!-- <img src="./assets/line.gif"> -->
+<hr/>
 <p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023</p>
-<img src="./assets/line.gif">
+<hr/>
+<!-- <img src="./assets/line.gif"> -->
