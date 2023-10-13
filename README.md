@@ -114,23 +114,22 @@
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/TaskMasterX">TaskMasterX</a></td>
-   <td align="center"><a href="https://taskmasterx.gausalmunirtushar.me/">Live Demo</a> </td>
-   <td> TaskMasterX is a powerful and intuitive task management system designed to help individual efficiently organize, track, and complete tasks. TaskMasterX is the perfect solution for anyone looking to streamline their workflow and stay on top of their tasks. </td>
+   <td><a href="https://github.com/GausAlMunirTushar/Taskify">TaskMasterX</a></td>
+   <td align="center"><a href="https://taskify.gausalmunirtushar.xyz/">Live Demo</a> </td>
+   <td> Taskify is a powerful and intuitive task management system designed to help individual efficiently organize, track, and complete tasks. TaskMasterX is the perfect solution for anyone looking to streamline their workflow and stay on top of their tasks. </td>
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/ExpensifyPro">ExpensifyPro</a></td>
-   <td align="center"> <a href="https://expensifypro.gausalmunirtushar.me/">Live Demo</a> </td>
-   <td> ExpensifyPro is a comprehensive expense management system designed to streamline the process of tracking, managing, and reporting expenses for businesses and individuals. The system offers features such as automated expense tracking, receipt scanning, real-time expense reports, and expense policy enforcement to help users manage their finances more. </td>
-   <td>Reactjs, JavaScript, Nodejs, Expressjs, MongoDB</td>
+   <td><a href="https://github.com/GausAlMunirTushar/Daktarbari">Daktarbari</a></td>
+   <td align="center"> <a href="https://daktarbari.gausalmunirtushar.xyz/">Live Demo</a> </td>
+   <td> The Daktarbari Doctor Management System is a web-based application designed to facilitate the management of medical practices and appointments. The system aims to streamline administrative tasks, improve patient care, and enhance the overall efficiency of healthcare operations.</td>
    </tr>
 </table>
 
 ## Hobby Projects
 | Projects      | Description | Responses |
 | -----------   | :-------------------: |-----------|
-| <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 100+ Installs |
+| <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 70+ Installs |
 
 
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
@@ -163,4 +162,5 @@
 <hr/>
 <p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023</p>
 <hr/>
+
 <!-- <img src="./assets/line.gif"> -->
