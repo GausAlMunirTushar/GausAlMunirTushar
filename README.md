@@ -1,4 +1,4 @@
-<h1> Hi, I'm  <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
+<h1> Hi👋, I'm  <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
 <!-- <h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="30">, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1> -->
 <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2>
@@ -19,6 +19,13 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
+
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://codepen.io/gausalmunirtushar)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
+[![Personal Blog](https://img.shields.io/badge/Personal%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://blog.gausalmunirtushar.xyz/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) 
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar) 
 
 
 
@@ -108,9 +115,9 @@
       <th>Technology Used</th>
    </tr>
    <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/InvenTrack">InvenTrack</a></td>
-   <td align="center"> <a href="https://inventrack.gausalmunirtushar.me">Live Demo</a> </td>
-   <td> InvenTrack is a powerful inventory management system that can help businesses take control of their inventory, minimize stockouts and overstocking, and improve their operational efficiency and customer satisfaction. </td>
+   <td><a href="https://github.com/GausAlMunirTushar/Inventorio">Inventorio</a></td>
+   <td align="center"> <a href="https://inventorio.gausalmunirtushar.xyz">Live Demo</a> </td>
+   <td> Inventorio is a powerful inventory management system that can help businesses take control of their inventory, minimize stockouts and overstocking, and improve their operational efficiency and customer satisfaction. </td>
    <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
    </tr>
    <tr>
@@ -142,7 +149,12 @@
    Rangpur, Bangladesh.
 - SSC in Computer Technology
    Jatir Pita Bangabandhu Govt. High School
-   Gazipur, Bangladesh. -->
+   Gazipur, Bangladesh. 
+   
+   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/)
+
+   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar) 
+   -->
    
 
 ### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
@@ -155,8 +167,6 @@
 
  <br>
 
-[![Website Badge](https://img.shields.io/badge/Personal%20Blog-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://blog.gausalmunirtushar.me/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/) [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar)
 
 <!-- <img src="./assets/line.gif"> -->
 
