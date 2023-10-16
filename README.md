@@ -27,7 +27,6 @@
 [![Personal Blog](https://img.shields.io/badge/Personal%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://blog.gausalmunirtushar.xyz/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar) 
-
 <br>
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40"/> Programming Languages:
