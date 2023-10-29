@@ -158,15 +158,15 @@
    -->
    
 
-### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
+<!-- ### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
 
 |          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
 | ![@IbrahimAliHamim](https://avatars.githubusercontent.com/u/87495140?v=4) | ![@JibonRay](https://avatars.githubusercontent.com/u/87613070?v=4) | ![@MahfouzHossain](https://avatars.githubusercontent.com/u/87492349?v=4) | ![@ShobujKumarAditto](https://avatars.githubusercontent.com/u/87502706?v=4) |
 |                             Ibrahim Ali Hamim                             |                             Jibon Ray                              |                             Mahafouz Hossain                             |                             Shobuj Kumar Addito                             |
-|                                                                           |                                                                    |                                                                          |                                                                             |
+|                                                                           |                                                                    |                                                                          |                                                                             | -->
 
- <br>
+<br>
 
 
 <!-- <img src="./assets/line.gif"> -->
