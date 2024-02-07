@@ -3,13 +3,13 @@
 <!-- <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
 <h2>Full Stack Developer</h2> -->
 
--   🔭 I’m currently working on Web Dev.
+-   🔭 I’m currently working on Web Development
 -   🌱 I’m currently learning Nginx & Docker
--   👯 I’m looking to collaborate on Web Dev
+-   👯 I’m looking to collaborate on Web Development
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
-- ⚡ Fun fact: My Typing speed 80++ WPM
+- ⚡ Fun fact: My Typing speed 85++ WPM
 ##  <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.xyz/)
