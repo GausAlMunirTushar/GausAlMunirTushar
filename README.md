@@ -1,12 +1,12 @@
 <h1> Hi👋, I'm  <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
 <!-- <h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="30">, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1> -->
-<!-- <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right">
-<h2>Full Stack Developer</h2> -->
+<!-- <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right"> -->
+<h2><a href="https://gausalmunirtushar.xyz">Full Stack Developer</a></h2> 
 
--   🔭 I’m currently working on Web Development
+-   🔭 I’m currently working on Full Stack Development
 -   🌱 I’m currently learning Nginx & Docker
 -   👯 I’m looking to collaborate on Web Development
--   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
+-   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
 - ⚡ Fun fact: My Typing speed 85++ WPM
