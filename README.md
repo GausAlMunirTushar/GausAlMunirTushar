@@ -7,9 +7,9 @@
 -   🌱 I’m currently learning Nginx & Docker
 -   👯 I’m looking to collaborate on Web Development
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
--   ❤️ I am passionate about Computer Science & I enjoy learning new things
+-   ❤️ I am passionate about Software Engineering & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
-- ⚡ Fun fact: My Typing speed 85++ WPM
+- ⚡ Fun fact: My Typing speed 90++ WPM
 ##  <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.xyz/)
