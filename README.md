@@ -106,10 +106,11 @@
 
 <!-- education section starts here  -->
 ## <img src="./assets/edu-icon.gif" width="30">Education
-1. Diploma in Computer Engineering
+
+1. __Diploma in Computer Engineering__
    Rangpur Polytechnic Institute  
    Rangpur, Bangladesh.
-2. SSC in Computer Technology
+2. __SSC in Computer Technology__
    Jatir Pita Bangabandhu Govt. High School
    Gazipur, Bangladesh.
 
