@@ -4,11 +4,11 @@
 <h2><a href="https://gausalmunirtushar.xyz">Full Stack Developer</a></h2> 
 
 -   🔭 I’m currently working on Full Stack Development
--   🌱 I’m currently learning Nginx & Docker
+-   🌱 I’m currently learning Docker & Nginx
 -   👯 I’m looking to collaborate on Web Development
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
--   ❤️ I am passionate about Software Engineering & I enjoy learning new things
--   💻 I enjoy programming & sharing knowledge
+-   ❤️ I am passionate about Software Engineering
+-   💻 I enjoy learning new things & sharing knowledge
 - ⚡ Fun fact: My Typing speed 90++ WPM
 ##  <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
@@ -142,15 +142,15 @@
 
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
-<!-- 
+
 ## <img src="./assets/edu-icon.gif" width="30">Education
-- Diploma in Computer Science and Technology
+- Diploma in Computer Engineering
    Rangpur Polytechnic Institute  
    Rangpur, Bangladesh.
 - SSC in Computer Technology
    Jatir Pita Bangabandhu Govt. High School
    Gazipur, Bangladesh. 
-   
+<!--    
    [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/)
 
    [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar)
@@ -172,7 +172,7 @@
 <!-- <img src="./assets/line.gif"> -->
 
 <hr/>
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023</p>
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2024</p>
 <hr/>
 
 <!-- <img src="./assets/line.gif"> -->
