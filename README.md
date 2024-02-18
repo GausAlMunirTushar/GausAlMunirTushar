@@ -101,6 +101,17 @@
 <br>
 
 <!-- [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph) -->
+<!-- work experience section starts here  -->
+
+
+<!-- education section starts here  -->
+## <img src="./assets/edu-icon.gif" width="30">Education
+1. Diploma in Computer Engineering
+   Rangpur Polytechnic Institute  
+   Rangpur, Bangladesh.
+2. SSC in Computer Technology
+   Jatir Pita Bangabandhu Govt. High School
+   Gazipur, Bangladesh.
 
 ## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
 - Top Learner - LEDP, ICT Division
@@ -143,13 +154,6 @@
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 
-## <img src="./assets/edu-icon.gif" width="30">Education
-- Diploma in Computer Engineering
-   Rangpur Polytechnic Institute  
-   Rangpur, Bangladesh.
-- SSC in Computer Technology
-   Jatir Pita Bangabandhu Govt. High School
-   Gazipur, Bangladesh. 
 <!--    
    [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/)
 
