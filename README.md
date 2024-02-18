@@ -107,14 +107,15 @@
 <!-- education section starts here  -->
 ## <img src="./assets/edu-icon.gif" width="30">Education
 
-1. __Diploma in Computer Engineering__
-   Rangpur Polytechnic Institute  
+- <p>Diploma in Computer Engineering</p>
+   <p>Rangpur Polytechnic Institute</p>
    Rangpur, Bangladesh.
-2. __SSC in Computer Technology__
-   Jatir Pita Bangabandhu Govt. High School
+- <p>SSC in Computer Technology</p>
+   <p>Jatir Pita Bangabandhu Govt. High School</p>
    Gazipur, Bangladesh.
+<!-- education section ends here  -->
 
-## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
+## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards:
 - Top Learner - LEDP, ICT Division
 
 ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
