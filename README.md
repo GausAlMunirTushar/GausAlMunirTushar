@@ -1,7 +1,6 @@
-<h1> Hi👋, I'm  <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1>
-<!-- <h1> Hi<img alt="Hi, I am Gaus Al Munir Tushar" src="./assets/hi.gif" width="30">, I'm <a href="https://gausalmunirtushar.xyz">Gaus Al Munir Tushar</a> </h1> -->
-<!-- <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right"> -->
-<h2><a href="https://gausalmunirtushar.xyz">Full Stack Developer</a></h2> 
+<h1> Hi👋, I'm  <a href="https://gausalmunir.xyz">Gaus Al Munir Tushar</a> </h1>
+
+<h2><a href="https://gausalmunir.xyz">Software Engineer</a></h2> 
 
 -   🔭 I’m currently working on Full Stack Development
 -   🌱 I’m currently learning Docker & Nginx
@@ -12,7 +11,7 @@
 - ⚡ Fun fact: My Typing speed 90++ WPM
 ##  <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
 
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.xyz/)
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunir.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunir)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharProfile)
@@ -22,11 +21,10 @@
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/GausAlMunirTushar)
-[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/GausAlMunirTush)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
 [![Personal Blog](https://img.shields.io/badge/Personal%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://blog.gausalmunirtushar.xyz/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar) 
+
 <br>
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40"/> Programming Languages:
