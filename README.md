@@ -1,6 +1,6 @@
 <h1> Hi👋, I'm  <a href="https://gausalmunir.xyz">Gaus Al Munir Tushar</a> </h1>
 
-<h2><a href="https://gausalmunir.xyz">Software Engineer</a></h2> 
+<h2><a href="https://gausalmunir.xyz">Software Engineer, DevOps Practitioner </a></h2> 
 
 -   🔭 I’m currently working on Full Stack Development
 -   🌱 I’m currently learning Docker & Nginx
