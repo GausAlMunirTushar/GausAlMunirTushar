@@ -107,18 +107,17 @@
 <!-- education section starts here  -->
 ## <img src="./assets/edu-icon.gif" width="30">Education
 
-- <p>Diploma in Computer Engineering</p>
-   <p>Rangpur Polytechnic Institute</p>
-   Rangpur, Bangladesh.
-- <p>SSC in Computer Technology</p>
-   <p>Jatir Pita Bangabandhu Govt. High School</p>
-   Gazipur, Bangladesh.
+| **Degree**                                    | **Institution**                               | **Location**         |
+|-----------------------------------------------|-----------------------------------------------|----------------------|
+| Bachelor of Science in Computer Science and Engineering | Northern University Bangladesh                 | Dhaka, Bangladesh     |
+| Diploma in Computer Engineering               | Rangpur Polytechnic Institute                 | Rangpur, Bangladesh   |
+
 <!-- education section ends here  -->
 
 ## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards:
 - Top Learner - LEDP, ICT Division
 
-##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
+<!-- ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
 
 <table>
    <tr>
@@ -153,7 +152,7 @@
 | <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 70+ Installs |
 
 
-<a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> -->
 
 
 <!--    
