@@ -1,29 +1,29 @@
 <h1> Hi👋, I'm  <a href="https://gausalmunir.xyz">Gaus Al Munir Tushar</a> </h1>
 
-<h3><a href="https://gausalmunir.xyz">Software Engineer, DevOps Practitioner </a></h3> 
+<h3><a href="https://gausalmunir.xyz">Software Engineer, DevOps Practitioner </a></h3>
 
--   🔭 I’m currently working on Full Stack Development
--   🌱 I’m currently learning Docker & Nginx
--   👯 I’m looking to collaborate on Web Development
--   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
--   ❤️ I am passionate about Software Engineering
--   💻 I enjoy learning new things & sharing knowledge
-- ⚡ Fun fact: My Typing speed 90++ WPM
-##  <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m currently learning Docker & Nginx
+- 👯 I’m looking to collaborate on Web Development
+- <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
+- ❤️ I am passionate about Software Engineering
+- 💻 I enjoy learning new things & sharing knowledge
+- ⚡ Fun fact: My typing speed 90++ WPM
+
+## <img alt="Loading Gif" src="./assets/loadig.gif" width="20"/> Connect with me! <br>
 
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunir.xyz/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunir)
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GausAlMunir)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharProfile)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
 
-
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/GausAlMunirTushar)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
-[![Personal Blog](https://img.shields.io/badge/Personal%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://blog.gausalmunir.xyz/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) 
+[![Personal Blog](https://img.shields.io/badge/Personal%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://blog.gausalmunir.xyz/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar)
 
 <br>
 
@@ -80,8 +80,8 @@
   
  </table>
 
+## Software and Tools:
 
-##  Software and Tools:
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a><a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a>               
 </p>
  
@@ -103,18 +103,19 @@
 <!-- [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph) -->
 <!-- work experience section starts here  -->
 
-
 <!-- education section starts here  -->
+
 ## <img src="./assets/edu-icon.gif" width="30">Education
 
-| **Degree**                                    | **Institution**                               | **Location**         |
-|-----------------------------------------------|-----------------------------------------------|----------------------|
-| Bachelor of Science in Computer Science and Engineering | Northern University Bangladesh                 | Dhaka, Bangladesh     |
-| Diploma in Computer Engineering               | Rangpur Polytechnic Institute                 | Rangpur, Bangladesh   |
+| **Degree**                                              | **Institution**                | **Location**        |
+| ------------------------------------------------------- | ------------------------------ | ------------------- |
+| Bachelor of Science in Computer Science and Engineering | Northern University Bangladesh | Dhaka, Bangladesh   |
+| Diploma in Computer Engineering                         | Rangpur Polytechnic Institute  | Rangpur, Bangladesh |
 
 <!-- education section ends here  -->
 
 ## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards:
+
 - Top Learner - LEDP, ICT Division
 
 <!-- ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
@@ -154,30 +155,17 @@
 
 <a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> -->
 
-
-<!--    
+<!--
    [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/)
 
    [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar)
-   
+
    -->
-   
-
-<!-- ### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
-
-|          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
-| :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| ![@IbrahimAliHamim](https://avatars.githubusercontent.com/u/87495140?v=4) | ![@JibonRay](https://avatars.githubusercontent.com/u/87613070?v=4) | ![@MahfouzHossain](https://avatars.githubusercontent.com/u/87492349?v=4) | ![@ShobujKumarAditto](https://avatars.githubusercontent.com/u/87502706?v=4) |
-|                             Ibrahim Ali Hamim                             |                             Jibon Ray                              |                             Mahafouz Hossain                             |                             Shobuj Kumar Addito                             |
-|                                                                           |                                                                    |                                                                          |                                                                             | -->
-
-<br>
-
 
 <!-- <img src="./assets/line.gif"> -->
 
 <hr/>
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2024</p>
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2025</p>
 <hr/>
 
 <!-- <img src="./assets/line.gif"> -->
