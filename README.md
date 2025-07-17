@@ -164,8 +164,8 @@
 
 <!-- <img src="./assets/line.gif"> -->
 
-<hr/>
+<!-- <hr/>
 <p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2025</p>
-<hr/>
+<hr/> -->
 
 <!-- <img src="./assets/line.gif"> -->
